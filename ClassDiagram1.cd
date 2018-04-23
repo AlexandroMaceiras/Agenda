@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Agenda.Altera2">
+    <Position X="0.5" Y="2.75" Width="5.25" />
+    <TypeIdentifier>
+      <FileName>Altera2.cs</FileName>
+      <HashCode>ACAAAAAAgSAAABAAAACgAABCIAAYAAAAEGAAAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agenda.Alteracao">
+    <Position X="6" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>Alteracao.cs</FileName>
+      <HashCode>AAAAAAAAgCAAABAAAACgQAACAAA4EAAAEHAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agenda.Anotacoes">
+    <Position X="11.25" Y="8.75" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>Anotacoes.cs</FileName>
+      <HashCode>AAAAAAAAACAAAAAQAACAAAACAAAIAAAAAEAQAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agenda.clRegras">
+    <Position X="0.5" Y="8.75" Width="10.25" />
+    <TypeIdentifier>
+      <FileName>clRegras.cs</FileName>
+      <HashCode>AQAAEEQIABDAWAAAQACABABBAACAQAgAAIACIABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agenda.Consulta">
+    <Position X="13.25" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>Consulta.cs</FileName>
+      <HashCode>AAAAAgAAgCAAABAAAACgQAACAAAYEAAAEGAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agenda.Delecao">
+    <Position X="20.5" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>Delecao.cs</FileName>
+      <HashCode>AAAAAAAAgCAAABAAAACgQAACAAA4EAAAEHAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agenda.Inclusao">
+    <Position X="16.75" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>Inclusao.cs</FileName>
+      <HashCode>ACAAAAAAASAAABAAAACAAABCIAAYAAAAEGAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agenda.MenuPrincipal">
+    <Position X="9.5" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>MenuPrincipal.cs</FileName>
+      <HashCode>AAAAAAABACAAABAAAACQAAACAMA5EABAAHAOBAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Agenda.Sobre">
+    <Position X="15" Y="7.5" Width="4.75" />
+    <TypeIdentifier>
+      <FileName>Sobre.cs</FileName>
+      <HashCode>ABAAAAAAACAAABAAAASAAAACAAAgAAAAACAAAABAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form">
+    <Position X="0.5" Y="0.5" Width="5.25" />
+    <TypeIdentifier />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+  </Class>
+</ClassDiagram>
