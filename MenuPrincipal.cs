@@ -247,7 +247,7 @@ namespace Agenda
 		{
 			Inclusao inclusao = new Inclusao();
 			inclusao.ShowDialog();
-		}
+		} 
 
 		/// <summary>
 		/// Deleta registros na agenda.
